@@ -1,5 +1,7 @@
 # GRID SOUL — Rosto de referência em cubos
 
+<img width="1352" height="763" alt="image" src="https://github.com/user-attachments/assets/d0f30848-9313-43a2-aa88-799d263660fe" />
+
 **O ChatGPT planeja; no rosto, somente instâncias cúbicas formam a imagem.**
 
 GRID SOUL é uma aplicação 3D local em Three.js, Node.js e Express. A versão 1.5.0 conserva as formas, a identidade química por slot e a ponte opcional com ChatGPT. O modo facial foi trocado por uma reconstrução voxel frontal da referência: posições e valores RGB são amostrados de uma grade 384×384 e cada amostra se torna um cubo no `InstancedMesh`.
