@@ -1,0 +1,723 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-22T19:43:00.537Z",
+  "lastCommand": "",
+  "lastPlan": {
+    "reply": "Estado visual restaurado.",
+    "shape": "custom",
+    "population": 2000,
+    "energy": 0.92,
+    "scale": 2.5,
+    "rotationX": 0.12,
+    "rotationY": 0.35,
+    "rotationZ": 0,
+    "moveX": 0,
+    "moveY": 0,
+    "moveZ": 0,
+    "color": "#00D9FF",
+    "paletteMode": "cyan",
+    "focusedAtomicNumber": null,
+    "identityVersion": "cube-slot-modulo-118-v1",
+    "faceProfile": null,
+    "parts": [
+      {
+        "kind": "ellipsoid",
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "sx": 2.5,
+        "sy": 0.48,
+        "sz": 0.72,
+        "rx": 0,
+        "ry": 0,
+        "rz": 0
+      },
+      {
+        "kind": "ellipsoid",
+        "x": 0,
+        "y": 0.42,
+        "z": 0.05,
+        "sx": 1.05,
+        "sy": 0.48,
+        "sz": 0.52,
+        "rx": -0.15,
+        "ry": 0,
+        "rz": 0
+      },
+      {
+        "kind": "ellipsoid",
+        "x": 0,
+        "y": 0.76,
+        "z": 0.08,
+        "sx": 0.58,
+        "sy": 0.3,
+        "sz": 0.36,
+        "rx": -0.18,
+        "ry": 0,
+        "rz": 0
+      },
+      {
+        "kind": "box",
+        "x": -1.45,
+        "y": -0.12,
+        "z": 0,
+        "sx": 1.15,
+        "sy": 0.12,
+        "sz": 1.55,
+        "rx": 0,
+        "ry": 0.12,
+        "rz": -0.08
+      },
+      {
+        "kind": "box",
+        "x": 1.45,
+        "y": -0.12,
+        "z": 0,
+        "sx": 1.15,
+        "sy": 0.12,
+        "sz": 1.55,
+        "rx": 0,
+        "ry": -0.12,
+        "rz": 0.08
+      },
+      {
+        "kind": "cylinder",
+        "x": -2.15,
+        "y": -0.12,
+        "z": 0,
+        "sx": 0.22,
+        "sy": 0.48,
+        "sz": 0.22,
+        "rx": 0,
+        "ry": 0,
+        "rz": 1.5708
+      },
+      {
+        "kind": "cylinder",
+        "x": 2.15,
+        "y": -0.12,
+        "z": 0,
+        "sx": 0.22,
+        "sy": 0.48,
+        "sz": 0.22,
+        "rx": 0,
+        "ry": 0,
+        "rz": 1.5708
+      },
+      {
+        "kind": "torus",
+        "x": 0,
+        "y": -0.05,
+        "z": 0,
+        "sx": 0.48,
+        "sy": 0.48,
+        "sz": 0.48,
+        "rx": 1.5708,
+        "ry": 0,
+        "rz": 0
+      },
+      {
+        "kind": "cone",
+        "x": 0,
+        "y": 0,
+        "z": -0.92,
+        "sx": 0.32,
+        "sy": 0.9,
+        "sz": 0.32,
+        "rx": 1.5708,
+        "ry": 0,
+        "rz": 0
+      },
+      {
+        "kind": "box",
+        "x": 0,
+        "y": -0.28,
+        "z": 0.95,
+        "sx": 0.42,
+        "sy": 0.12,
+        "sz": 0.48,
+        "rx": 0,
+        "ry": 0,
+        "rz": 0
+      }
+    ]
+  },
+  "history": [
+    {
+      "timestamp": "2026-10-22T02:33:46.944Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 2000,
+      "energy": 0.78,
+      "scale": 2.5,
+      "color": "#00D9FF"
+    },
+    {
+      "timestamp": "2026-10-22T02:37:47.162Z",
+      "status": "success",
+      "shape": "face",
+      "population": 2000,
+      "energy": 0.82,
+      "scale": 2.5,
+      "color": "#00D9FF"
+    },
+    {
+      "timestamp": "2026-10-22T02:46:48.806Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 2000,
+      "energy": 0.82,
+      "scale": 2.5,
+      "color": "#00D9FF"
+    },
+    {
+      "timestamp": "2026-10-22T02:50:58.882Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 63000,
+      "energy": 0.85,
+      "scale": 2.5,
+      "color": "#00D9FF"
+    },
+    {
+      "timestamp": "2026-10-22T02:51:57.242Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 63000,
+      "energy": 0.88,
+      "scale": 2.5,
+      "color": "#08080D"
+    },
+    {
+      "timestamp": "2026-10-22T02:54:01.670Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 63000,
+      "energy": 0.9,
+      "scale": 2.5,
+      "color": "#F4F5F7"
+    },
+    {
+      "timestamp": "2026-10-22T03:00:03.158Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 152000,
+      "energy": 0.88,
+      "scale": 3.2,
+      "color": "#F2F2F2"
+    },
+    {
+      "timestamp": "2026-10-22T03:01:21.348Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 152000,
+      "energy": 0.92,
+      "scale": 3.2,
+      "color": "#F2F2F2"
+    },
+    {
+      "timestamp": "2026-10-22T03:02:32.254Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 152000,
+      "energy": 0.95,
+      "scale": 2.8,
+      "color": "#00E5FF"
+    },
+    {
+      "timestamp": "2026-10-22T03:04:06.866Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 152000,
+      "energy": 0.94,
+      "scale": 2.8,
+      "color": "#E41E2B"
+    },
+    {
+      "timestamp": "2026-10-22T03:05:13.156Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 152000,
+      "energy": 0.94,
+      "scale": 2.8,
+      "color": "#E41E2B"
+    },
+    {
+      "timestamp": "2026-10-22T03:06:07.684Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 152000,
+      "energy": 0.94,
+      "scale": 2.8,
+      "color": "#E41E2B"
+    },
+    {
+      "timestamp": "2026-10-22T03:08:04.712Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 152000,
+      "energy": 0.9,
+      "scale": 2.8,
+      "color": "#E41E2B"
+    },
+    {
+      "timestamp": "2026-10-22T03:08:48.954Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 152000,
+      "energy": 0.93,
+      "scale": 2.8,
+      "color": "#E41E2B"
+    },
+    {
+      "timestamp": "2026-10-22T03:09:27.126Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 48000,
+      "energy": 0.92,
+      "scale": 2.8,
+      "color": "#E41E2B"
+    },
+    {
+      "timestamp": "2026-10-22T03:10:17.617Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 48000,
+      "energy": 0.88,
+      "scale": 2.8,
+      "color": "#111111"
+    },
+    {
+      "timestamp": "2026-10-22T03:11:21.810Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 48000,
+      "energy": 0.91,
+      "scale": 3.2,
+      "color": "#718A9B"
+    },
+    {
+      "timestamp": "2026-10-22T03:12:27.787Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 48000,
+      "energy": 0.78,
+      "scale": 3.2,
+      "color": "#718A9B"
+    },
+    {
+      "timestamp": "2026-10-22T03:13:21.938Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 48000,
+      "energy": 0.84,
+      "scale": 3.4,
+      "color": "#718A9B"
+    },
+    {
+      "timestamp": "2026-10-22T03:14:19.710Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 428000,
+      "energy": 0.86,
+      "scale": 3.5,
+      "color": "#718A9B"
+    },
+    {
+      "timestamp": "2026-10-22T03:15:55.586Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 22000,
+      "energy": 0.82,
+      "scale": 2.6,
+      "color": "#168C9B"
+    },
+    {
+      "timestamp": "2026-10-22T03:17:20.323Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 22000,
+      "energy": 0.72,
+      "scale": 2.8,
+      "color": "#42C7D9"
+    },
+    {
+      "timestamp": "2026-10-22T03:18:12.051Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 22000,
+      "energy": 0.72,
+      "scale": 2.5,
+      "color": "#00E5FF"
+    },
+    {
+      "timestamp": "2026-10-22T03:19:01.205Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 22000,
+      "energy": 0.82,
+      "scale": 3.8,
+      "color": "#00D9FF"
+    },
+    {
+      "timestamp": "2026-10-22T03:20:43.580Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 22000,
+      "energy": 0.82,
+      "scale": 3.8,
+      "color": "#00D9FF"
+    },
+    {
+      "timestamp": "2026-10-22T03:22:07.176Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 22000,
+      "energy": 0.84,
+      "scale": 3.8,
+      "color": "#00D9FF"
+    },
+    {
+      "timestamp": "2026-10-22T03:23:05.368Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 22000,
+      "energy": 0.84,
+      "scale": 3.8,
+      "color": "#00D9FF"
+    },
+    {
+      "timestamp": "2026-10-22T03:23:51.507Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 22000,
+      "energy": 0.84,
+      "scale": 3.8,
+      "color": "#00D9FF"
+    },
+    {
+      "timestamp": "2026-10-22T03:25:29.000Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 22000,
+      "energy": 0.88,
+      "scale": 3.8,
+      "color": "#00D9FF"
+    },
+    {
+      "timestamp": "2026-10-22T03:26:33.619Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 22000,
+      "energy": 0.9,
+      "scale": 3.8,
+      "color": "#00D9FF"
+    },
+    {
+      "timestamp": "2026-10-22T03:27:36.322Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 22000,
+      "energy": 0.9,
+      "scale": 3.8,
+      "color": "#00D9FF"
+    },
+    {
+      "timestamp": "2026-10-22T03:28:45.022Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 22000,
+      "energy": 0.95,
+      "scale": 3.8,
+      "color": "#00D9FF"
+    },
+    {
+      "timestamp": "2026-10-22T03:30:04.102Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 22000,
+      "energy": 0.95,
+      "scale": 3.8,
+      "color": "#00D9FF"
+    },
+    {
+      "timestamp": "2026-10-22T03:31:26.805Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 22000,
+      "energy": 0.82,
+      "scale": 3.4,
+      "color": "#00D9FF"
+    },
+    {
+      "timestamp": "2026-10-22T03:32:31.093Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 22000,
+      "energy": 0.88,
+      "scale": 3.6,
+      "color": "#00D9FF"
+    },
+    {
+      "timestamp": "2026-10-22T03:34:47.486Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 26000,
+      "energy": 0.92,
+      "scale": 3.4,
+      "color": "#00D9FF"
+    },
+    {
+      "timestamp": "2026-10-22T03:35:59.619Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 26000,
+      "energy": 0.92,
+      "scale": 3.4,
+      "color": "#00D9FF"
+    },
+    {
+      "timestamp": "2026-10-22T03:36:55.573Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 26000,
+      "energy": 0.92,
+      "scale": 3.4,
+      "color": "#00E5FF"
+    },
+    {
+      "timestamp": "2026-10-22T03:43:41.060Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 152000,
+      "energy": 0.88,
+      "scale": 3.4,
+      "color": "#20C65A"
+    },
+    {
+      "timestamp": "2026-10-22T03:49:53.411Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 65000,
+      "energy": 0.96,
+      "scale": 3.4,
+      "color": "#20C65A"
+    },
+    {
+      "timestamp": "2026-10-22T03:52:06.053Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 34000,
+      "energy": 0.94,
+      "scale": 3.4,
+      "color": "#20C65A"
+    },
+    {
+      "timestamp": "2026-10-22T03:53:17.142Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 34000,
+      "energy": 0.86,
+      "scale": 3.4,
+      "color": "#20C65A"
+    },
+    {
+      "timestamp": "2026-10-22T03:58:37.802Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 34000,
+      "energy": 0.9,
+      "scale": 3.4,
+      "color": "#20C65A"
+    },
+    {
+      "timestamp": "2026-10-22T04:00:32.788Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 34000,
+      "energy": 0.88,
+      "scale": 3.4,
+      "color": "#20C65A"
+    },
+    {
+      "timestamp": "2026-10-22T04:01:58.689Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 34000,
+      "energy": 0.88,
+      "scale": 3.4,
+      "color": "#20C65A"
+    },
+    {
+      "timestamp": "2026-10-22T04:03:32.222Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 34000,
+      "energy": 0.78,
+      "scale": 3.4,
+      "color": "#20C65A"
+    },
+    {
+      "timestamp": "2026-10-22T04:04:25.201Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 34000,
+      "energy": 0.84,
+      "scale": 3.4,
+      "color": "#20C65A"
+    },
+    {
+      "timestamp": "2026-10-22T04:05:23.345Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 34000,
+      "energy": 0.72,
+      "scale": 3.4,
+      "color": "#20C65A"
+    },
+    {
+      "timestamp": "2026-10-22T04:06:15.023Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 34000,
+      "energy": 0.8,
+      "scale": 3.4,
+      "color": "#20C65A"
+    },
+    {
+      "timestamp": "2026-10-22T04:08:09.050Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 131000,
+      "energy": 0.82,
+      "scale": 3.4,
+      "color": "#20C65A"
+    },
+    {
+      "timestamp": "2026-10-22T04:10:09.765Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 131000,
+      "energy": 0.88,
+      "scale": 3.4,
+      "color": "#20C65A"
+    },
+    {
+      "timestamp": "2026-10-22T04:13:21.290Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 36000,
+      "energy": 0.92,
+      "scale": 3.2,
+      "color": "#E8B52F"
+    },
+    {
+      "timestamp": "2026-10-22T04:15:54.912Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 36000,
+      "energy": 0.72,
+      "scale": 3.4,
+      "color": "#244D91"
+    },
+    {
+      "timestamp": "2026-10-22T04:17:28.757Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 36000,
+      "energy": 0.96,
+      "scale": 3.4,
+      "color": "#244D91"
+    },
+    {
+      "timestamp": "2026-10-22T04:18:46.095Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 36000,
+      "energy": 0.78,
+      "scale": 2.5,
+      "color": "#244D91"
+    },
+    {
+      "timestamp": "2026-10-22T04:20:14.803Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 36000,
+      "energy": 0.9,
+      "scale": 3.2,
+      "color": "#C47A55"
+    },
+    {
+      "timestamp": "2026-10-22T04:23:07.200Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 209000,
+      "energy": 0.82,
+      "scale": 3.2,
+      "color": "#687784"
+    },
+    {
+      "timestamp": "2026-10-22T04:23:59.281Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 209000,
+      "energy": 0.78,
+      "scale": 3.2,
+      "color": "#687784"
+    },
+    {
+      "timestamp": "2026-10-22T04:25:52.451Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 209000,
+      "energy": 0.91,
+      "scale": 3.5,
+      "color": "#183B70"
+    },
+    {
+      "timestamp": "2026-10-22T04:28:03.170Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 65000,
+      "energy": 0.91,
+      "scale": 3.5,
+      "color": "#183B70"
+    },
+    {
+      "timestamp": "2026-10-22T04:28:54.051Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 65000,
+      "energy": 0.97,
+      "scale": 3.25,
+      "color": "#C94F37"
+    },
+    {
+      "timestamp": "2026-10-22T04:33:52.504Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 5000,
+      "energy": 0.97,
+      "scale": 3.1,
+      "color": "#C94F37"
+    },
+    {
+      "timestamp": "2026-10-22T05:05:16.671Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 5000,
+      "energy": 0.88,
+      "scale": 2.6,
+      "color": "#687784"
+    },
+    {
+      "timestamp": "2026-10-22T19:43:00.268Z",
+      "status": "success",
+      "shape": "custom",
+      "population": 2000,
+      "energy": 0.92,
+      "scale": 2.5,
+      "color": "#00D9FF"
+    }
+  ]
+}
